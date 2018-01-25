@@ -1,7 +1,10 @@
 # Lisbeth.Macros
-Here you'll find a collection of Lisbeth macros that several community members have created. Although Lisbeth has a general crafting AI integrated, these might prove quite useful for specific circumstances. You can also use this repository to report bugs by creating an issue for them.
+Here you'll find a collection of Lisbeth macros that several community members have created. Although Lisbeth has a general crafting AI integrated, these might prove quite useful for specific circumstances. You can also use this repository to report bugs by creating an issue.
 
-Macros can be used in two ways. The first is to assign them directly to an order, through the order's individual settings. This forces Lisbeth to use that macro for crafting that order above everything else, regardless of priority or conditionals. The second way to use them is as **overrides**. When Lisbeth crafts something, it'll first check every enabled macro that you have to see if any of their conditionals are valid for the craft that is about to happen. If it finds one, it'll use that instead of the default crafting AI. In other words, it *overrides* the default behavior when the conditionals in the macro are met. This happens with primary and secondary orders (suborders). Only enabled macros are used in this manner.
+Macros can be used in two ways: 
+
+1. You can assign them directly to an order, through the order's individual settings. This forces Lisbeth to use that macro for crafting that order above everything else, regardless of priority or conditionals. 
+2. You can use them as **overrides**. When Lisbeth crafts something, it'll first check every enabled macro that you have to see if any of their conditionals are valid for the craft that is about to happen. If it finds one, it'll use that instead of the default crafting AI. In other words, it *overrides* the default behavior when the conditionals in the macro are met. This happens with primary and secondary orders (suborders). Only enabled macros are used in this manner.
 
 ## Macro Syntax
 
