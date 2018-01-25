@@ -1,0 +1,120 @@
+Name: (320) Demanufacture's D70 - 525 CP
+Priority: 0
+Enabled: False
+Conditions: MaxDurability == 70 && MaxProgress == 6377 && Craftsmanship >= 1320 && Control >= 1220 && Cp >= 525 && RecipeDisplayLevel == 70
+
+S1: 
+- Maker's Mark
+- Comfort Zone
+- Steady Hand
+- Piece by Piece
+- Piece by Piece
+- Piece by Piece
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Comfort Zone
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Comfort Zone
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Comfort Zone
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Comfort Zone
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+
+S2: Progress < 6138
+- Flawless Synthesis
+
+S3: Progress < 6138
+- Flawless Synthesis
+
+S4: Progress < 6138
+- Flawless Synthesis
+
+S5: Progress < 6138
+- Flawless Synthesis
+
+S6: Progress < 6138
+- Flawless Synthesis
+
+S7: Progress < 6138
+- Flawless Synthesis
+
+S8: Progress < 6138
+- Flawless Synthesis
+
+S9: Progress < 6138
+- Flawless Synthesis
+
+S10:
+- Comfort Zone
+- Inner Quiet
+- Manipulation II
+- Steady Hand II
+- Basic Touch
+- Ingenuity
+- Basic Touch
+- Prudent Touch
+- Prudent Touch
+- Observe
+- Focused Touch
+- Comfort Zone
+- Steady Hand II
+- Ingenuity
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Steady Hand II
+- Ingenuity II
+- Innovation
+- Prudent Touch
+
+S11: Condition == Excellent
+- Byregot's Blessing
+- Careful Synthesis II
+
+S12:
+- Great Strides
+- Byregot's Blessing
+- Careful Synthesis II
+

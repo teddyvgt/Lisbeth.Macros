@@ -1,0 +1,59 @@
+Name: (320) ArcticWolfFox's D70 - 505 CP
+Priority: 1
+Enabled: True
+Conditions: Cp >= 505 && MaxDurability == 70  && Specialized == False && MaxProgress == 3543 
+
+S1: 
+- Muscle Memory
+- Comfort Zone
+- Inner Quiet
+- Steady Hand II
+- Piece by Piece
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Manipulation II
+- Steady Hand II
+- Prudent Touch
+- Comfort Zone
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Steady Hand II
+- Prudent Touch
+- Great Strides
+- Innovation
+
+S2: Condition == Good
+- Ingenuity II
+- Byregot's Blessing
+- Careful Synthesis III
+- Careful Synthesis III
+- Careful Synthesis III
+- Careful Synthesis III
+
+S2: Condition == Normal
+- Ingenuity II
+- Byregot's Blessing
+- Careful Synthesis III
+- Careful Synthesis III
+- Careful Synthesis III
+- Careful Synthesis III
+
+S2: Condition == Poor
+- Ingenuity II
+- Byregot's Blessing
+- Careful Synthesis III
+- Careful Synthesis III
+- Careful Synthesis III
+- Careful Synthesis III
+
+S2: Condition == Excellent
+- Byregot's Blessing
+- Ingenuity II
+- Careful Synthesis III
+- Careful Synthesis III
+- Careful Synthesis III
+- Careful Synthesis III
+
